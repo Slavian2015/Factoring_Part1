@@ -1,0 +1,169 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:root:2693
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:47:05] "GET /signup2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:47:39] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:47:39] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:47:46] "POST /login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:47:46] "GET /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:47:58] "GET /logout HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:47:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:48:01] "POST /mobile HTTP/1.1" 302 -
+INFO:root:2109
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:48:01] "GET /signup2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:48:23] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:48:23] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:48:41] "POST /login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:48:41] "GET /profile HTTP/1.1" 200 -
+INFO:root:6197
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:49:48] "GET /signup2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:50:12] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:50:12] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:51:27] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:51:27] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:54:00] "GET /signup2 HTTP/1.1" 200 -
+INFO:root:0512
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:55:21] "GET /signup2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:55:42] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:55:42] "GET /login HTTP/1.1" 200 -
+INFO:root:6387
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:58:19] "GET /signup2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:58:28] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:58:28] "GET /login HTTP/1.1" 200 -
+INFO:root:8754
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:59:09] "GET /signup2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:59:19] "POST /signup HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 18:59:19] "GET /login HTTP/1.1" 200 -
+INFO:root:6322
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:07:35] "GET /signup2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:07:41] "POST /signup2 HTTP/1.1" 302 -
+INFO:root:6746
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:07:41] "GET /signup2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:07:57] "POST /signup2 HTTP/1.1" 302 -
+INFO:root:4279
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:07:57] "GET /signup2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:08:38] "POST /signup2 HTTP/1.1" 302 -
+INFO:root:7293
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:08:38] "GET /signup2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:11:12] "GET /signup HTTP/1.1" 200 -
+INFO:root:4172
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:16:04] "GET /signup2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:16:12] "POST /signup2 HTTP/1.1" 302 -
+INFO:root:0824
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:16:12] "GET /signup2 HTTP/1.1" 200 -
+INFO:root:6623
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:16:52] "GET /signup2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:17:06] "POST /signup2 HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:17:06] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:17:26] "POST /login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:17:27] "GET /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:19:12] "GET /logout HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:19:12] "GET / HTTP/1.1" 200 -
+ERROR:app:Exception on /login [GET]
+Traceback (most recent call last):
+  File "C:\fin\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\fin\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\fin\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\fin\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\fin\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\fin\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\fin\auth.py", line 24, in login
+    logging.info(otp)
+NameError: name 'otp' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:25:55] "GET /login HTTP/1.1" 500 -
+ERROR:app:Exception on /login [GET]
+Traceback (most recent call last):
+  File "C:\fin\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\fin\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\fin\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\fin\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\fin\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\fin\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\fin\auth.py", line 24, in login
+    logging.info(otp)
+NameError: name 'otp' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:26:20] "GET /login HTTP/1.1" 500 -
+ERROR:app:Exception on /login [GET]
+Traceback (most recent call last):
+  File "C:\fin\venv\lib\site-packages\flask\app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\fin\venv\lib\site-packages\flask\app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\fin\venv\lib\site-packages\flask\app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\fin\venv\lib\site-packages\flask\_compat.py", line 39, in reraise
+    raise value
+  File "C:\fin\venv\lib\site-packages\flask\app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\fin\venv\lib\site-packages\flask\app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\fin\auth.py", line 26, in login
+    logging.info(otp)
+NameError: name 'otp' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:29:36] "GET /login HTTP/1.1" 500 -
+INFO:root:0251
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:30:07] "GET /login HTTP/1.1" 200 -
+INFO:root:9807
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:30:39] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:30:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:30:44] "POST /mobile HTTP/1.1" 302 -
+INFO:root:7752
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:30:44] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:30:59] "POST /login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:30:59] "GET /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:31:05] "GET /logout HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:31:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:31:08] "POST /mobile HTTP/1.1" 302 -
+INFO:root:1595
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:31:08] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:31:20] "POST /login HTTP/1.1" 302 -
+INFO:root:9551
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:31:20] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:31:36] "POST /login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:31:36] "GET /profile HTTP/1.1" 200 -
+INFO:root:4820
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:37:44] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:38:03] "GET /logout HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:38:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:38:06] "POST /mobile HTTP/1.1" 302 -
+INFO:root:9491
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:38:06] "GET /login2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:38:20] "POST /login2 HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:38:20] "GET /profile HTTP/1.1" 302 -
+INFO:root:5155
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:38:20] "GET /login?next=%2Fprofile HTTP/1.1" 200 -
+INFO:root:3343
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:38:49] "GET /login2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:39:02] "POST /login2 HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:39:02] "GET /profile HTTP/1.1" 302 -
+INFO:root:2082
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:39:02] "GET /login?next=%2Fprofile HTTP/1.1" 200 -
+INFO:root:5149
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:39:33] "GET /login2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:40:47] "POST /login2 HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:40:47] "GET /profile HTTP/1.1" 302 -
+INFO:root:0165
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:40:47] "GET /login?next=%2Fprofile HTTP/1.1" 200 -
+INFO:root:4418
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:45:08] "GET /login2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:45:16] "POST /login2 HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:45:16] "GET /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:45:19] "GET /logout HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:45:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:45:22] "POST /mobile HTTP/1.1" 302 -
+INFO:root:0569
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:45:22] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:45:35] "POST /login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [26/Jun/2020 19:45:35] "GET /profile HTTP/1.1" 200 -
